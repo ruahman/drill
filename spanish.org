@@ -1,0 +1,7 @@
+#+TAGS: drill(d)
+#+ARCHIVE: %s_archive::
+
+* Palabra                                                             :drill:
+gato
+** traduccíon
+cat
