@@ -1,0 +1,7 @@
+#+TAGS: drill(d)
+#+ARCHIVE: %s_archive::
+
+* Palavra                                                             :drill:
+fome
+** tradução
+hunger
