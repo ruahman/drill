@@ -1,0 +1,38 @@
+#+TAGS: drill(d)
+#+ARCHIVE: %s_archive::
+
+* voyelle                                                             :drill:
+a
+** son
+/a/ [a]
+
+- sa /sa/ (his/her)
+
+* voyelle                                                             :drill:
+à
+** son
+/a/ [a]
+
+- là /la/ (there) 
+
+* voyelle                                                             :drill:
+â
+** son
+/a/ [a]
+
+- pâte /pat/ (pastry)
+
+* voyelle                                                             :drill:
+ai
+** son
+/Ɛ/ [e]
+
+- mais /mɛ/ (but)
+
+* voyelle                                                             :drill:
+eau
+** son
+/o/ [oh]
+
+
+

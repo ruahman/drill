@@ -6,3 +6,13 @@
 cat
 ** answer
 cat
+
+* Spelling                                                            :drill:
+the opposite of giving a complement
+** answer
+criticism
+
+* Spelling                                                            :drill:
+Bra-ket
+** answer
+Bracket

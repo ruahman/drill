@@ -1,0 +1,136 @@
+#+TAGS: drill(d)
+#+ARCHIVE: %s_archive::
+
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       d97a3af5-ae1a-4b3e-89b2-1c5e4ea44a02
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+a la plancha
+** traduccíon
+to grill
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       1e832d66-edb7-4261-8916-ca3d5bd73934
+:DRILL_LAST_INTERVAL: 3.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+asado / asada
+** traduccíon
+grilled
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       d5c13258-c4d0-4f28-b2e8-ada2068252f7
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+hervido
+** traduccíon
+boiled
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       81c220e4-c26e-4f13-948c-5d9149412778
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+al vapor
+** traduccíon
+steamed
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       31d576c5-464a-4ec3-95cc-7fa1b1744a2c
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+padrastro
+** traduccíon
+step father
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       a1fee9c9-daed-4d32-b787-7db4ae512750
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+madrastra
+** traduccíon
+step mother
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       ca754ef9-092b-431f-b4c5-5377b54031a1
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+hijastro
+** traduccíon
+step brother
+* Palabra                                                             :drill:
+SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ID:       0443fb4d-255a-4ca2-ae94-018dd64b675a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 09:%]
+:END:
+hijastra
+** traduccíon
+step sister
+
+* Palabra                                                             :drill:
+¿Sale a su hora el vuels para Chicago?
+** traduccíon
+is the flight to chicago on time?

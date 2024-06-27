@@ -71,17 +71,17 @@ SCHEDULED: <2024-03-26 Tue>
   Ephesians 3:20
 
 * Bible Verse           :drill:
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-06-28 Fri>
 :PROPERTIES:
 :ID:       42ac6c8c-93a9-4102-8df1-18acd2eb8103
 :DRILL_LAST_INTERVAL: 3.972
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 12
-:DRILL_FAILURE_COUNT: 6
-:DRILL_AVERAGE_QUALITY: 2.334
-:DRILL_EASE: 1.8
+:DRILL_TOTAL_REPEATS: 14
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 2.357
+:DRILL_EASE: 1.66
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 22:%]
 :END:
  Rejoice Always, Pray continuously, Give thanks for everything.  
 ** answer
@@ -139,33 +139,34 @@ SCHEDULED: <2024-03-28 Thu>
   James 1:17
 
 * Bible Verse           :drill:
+SCHEDULED: <2024-06-17 Mon>
 :PROPERTIES:
 :ID:       41dd90d7-cce3-4c7d-9dbe-0a84799af6c9
-:DRILL_LAST_INTERVAL: 0.0
-:DRILL_REPEATS_SINCE_FAIL: 1
-:DRILL_TOTAL_REPEATS: 9
+:DRILL_LAST_INTERVAL: 3.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 10
 :DRILL_FAILURE_COUNT: 3
-:DRILL_AVERAGE_QUALITY: 2.556
-:DRILL_EASE: 1.66
-:DRILL_LAST_QUALITY: 2
-:DRILL_LAST_REVIEWED: [Y-05-25 Sat 22:%]
+:DRILL_AVERAGE_QUALITY: 2.6
+:DRILL_EASE: 1.52
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-06-13 Thu 22:%]
 :END:
  commit your way in jehovah and rely on him and he will act on your behalf 
 ** answer
   Psalm 37:5
 
 * Bible Verse           :drill:
-SCHEDULED: <2024-03-26 Tue>
+SCHEDULED: <2024-06-29 Sat>
 :PROPERTIES:
 :ID:       9a06035a-6281-4fcc-a76c-e6dbb15d722a
-:DRILL_LAST_INTERVAL: 3.972
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 15
+:DRILL_LAST_INTERVAL: 4.8895
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 16
 :DRILL_FAILURE_COUNT: 6
-:DRILL_AVERAGE_QUALITY: 2.2
-:DRILL_EASE: 1.24
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 1.3
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_REVIEWED: [Y-06-24 Mon 22:%]
 :END:
  rejoice in the hope, endure under tribulation, presever in prayer 
 ** answer
@@ -291,16 +292,17 @@ SCHEDULED: <2024-03-28 Thu>
   Ps 55:22
 
 * Bible Verse           :drill:
+SCHEDULED: <2024-06-17 Mon>
 :PROPERTIES:
 :ID:       59c61daf-cecb-4358-a2e9-c81a1a78fdbd
-:DRILL_LAST_INTERVAL: 0.0
-:DRILL_REPEATS_SINCE_FAIL: 1
-:DRILL_TOTAL_REPEATS: 5
+:DRILL_LAST_INTERVAL: 3.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.6
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 2
-:DRILL_LAST_REVIEWED: [Y-05-25 Sat 22:%]
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-06-13 Thu 22:%]
 :END:
  the pease of god which is beyond all understanding... 
 ** answer
@@ -375,16 +377,17 @@ SCHEDULED: <2024-04-21 Sun>
   1 John 5:14
 
 * Bible Verse           :drill:
+SCHEDULED: <2024-06-17 Mon>
 :PROPERTIES:
 :ID:       c9667325-b13a-47b3-80b9-a1152e81e251
-:DRILL_LAST_INTERVAL: 0.0
-:DRILL_REPEATS_SINCE_FAIL: 1
-:DRILL_TOTAL_REPEATS: 16
-:DRILL_FAILURE_COUNT: 11
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 1.8
-:DRILL_LAST_QUALITY: 0
-:DRILL_LAST_REVIEWED: [Y-05-25 Sat 22:%]
+:DRILL_LAST_INTERVAL: 3.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 18
+:DRILL_FAILURE_COUNT: 12
+:DRILL_AVERAGE_QUALITY: 1.611
+:DRILL_EASE: 1.66
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-06-13 Thu 22:%]
 :END:
  for he who can not love his brother whom he sees can not love God whom he has not seen 
 ** answer
@@ -425,16 +428,17 @@ SCHEDULED: <2024-03-26 Tue>
   Romans 15:4
 
 * Bible Verse           :drill:
+SCHEDULED: <2024-06-18 Tue>
 :PROPERTIES:
 :ID:       55df8422-0864-45a4-8a8e-eeff972a0674
-:DRILL_LAST_INTERVAL: 0.0
-:DRILL_REPEATS_SINCE_FAIL: 1
-:DRILL_TOTAL_REPEATS: 11
+:DRILL_LAST_INTERVAL: 3.972
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 12
 :DRILL_FAILURE_COUNT: 6
-:DRILL_AVERAGE_QUALITY: 1.819
-:DRILL_EASE: 1.8
-:DRILL_LAST_QUALITY: 0
-:DRILL_LAST_REVIEWED: [Y-05-25 Sat 22:%]
+:DRILL_AVERAGE_QUALITY: 1.917
+:DRILL_EASE: 1.66
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-06-14 Fri 22:%]
 :END:
  .. God is greater than our hearts 
 ** answer
@@ -926,17 +930,16 @@ SCHEDULED: <2024-03-31 Sun>
   Psalm 68:6
 
 * Bible Verse           :drill:
-SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :ID:       8DA4BFFD-10BC-4FFE-B507-26641F34DA96
-:DRILL_LAST_INTERVAL: 3.944
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 12
-:DRILL_FAILURE_COUNT: 10
-:DRILL_AVERAGE_QUALITY: 1.251
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 13
+:DRILL_FAILURE_COUNT: 11
+:DRILL_AVERAGE_QUALITY: 1.309
 :DRILL_EASE: 2.22
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_QUALITY: 2
+:DRILL_LAST_REVIEWED: [Y-06-25 Tue 22:%]
 :END:
  Jehovah is close to the brokenhearted. 
 ** answer
@@ -977,17 +980,16 @@ SCHEDULED: <2024-04-02 Tue>
   Jeremiah 9:23
 
 * Bible Verse           :drill:
-SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :ID:       FDFDB39C-636A-41BC-8BB4-88406239EB3C
-:DRILL_LAST_INTERVAL: 3.972
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 9
-:DRILL_FAILURE_COUNT: 6
-:DRILL_AVERAGE_QUALITY: 1.444
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 1.545
 :DRILL_EASE: 2.08
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_QUALITY: 2
+:DRILL_LAST_REVIEWED: [Y-06-25 Tue 22:%]
 :END:
  I have not seen anyone righteous abandoned. 
 ** answer
@@ -1002,17 +1004,16 @@ SCHEDULED: <2024-03-26 Tue>
   Psalm 145:15
 
 * Bible Verse           :drill:
-SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :ID:       13708046-67CB-46BC-BE82-885879DA608B
-:DRILL_LAST_INTERVAL: 3.972
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.333
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.5
 :DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_QUALITY: 2
+:DRILL_LAST_REVIEWED: [Y-06-25 Tue 22:%]
 :END:
  close friendship with Jehovah belongs to those who fear him. 
 ** answer
@@ -1207,17 +1208,16 @@ SCHEDULED: <2024-03-31 Sun>
 ** answer
   Proverbs 18:10
 * Bible Verse                                                         :drill:
-SCHEDULED: <2024-03-26 Tue>
 :PROPERTIES:
 :ID:       4511850B-E06C-4C3C-829B-3111B49DD197
-:DRILL_LAST_INTERVAL: 3.972
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
 :DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-03-22 Fri 20:%]
+:DRILL_LAST_QUALITY: 2
+:DRILL_LAST_REVIEWED: [Y-06-25 Tue 22:%]
 :END:
 Jehovah holds back nothing good for those who walk in integrety 
 ** answer
@@ -1387,3 +1387,99 @@ SCHEDULED: <2024-03-26 Tue>
 Jehovah will not hold back anything good from those walking in integrity
 ** answer
 Psalms 84:11
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       3ddc94eb-04bb-45e6-aeca-751e5623dc05
+:END:
+Be wise my son and make my heart rejoice so that I might have a reply to him who taunts me
+** answer
+Proverbse 27:11
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       66ff12f2-b8bd-4ef7-bee2-4cef03b3080c
+:END:
+Oh you who love Jehovah, hate what is bad
+** answer
+Psalms 97:10
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       fd727ca0-5022-4e3f-aea1-cc51d55b8d20
+:END:
+we are under oblication to surrender our lives to our brothers
+** answer
+1 john 3:16
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       402a6db6-57d9-42c9-8f63-1245bbf2f9de
+:END:
+If our hearts to not condem us then we have freedom of speach before god and what ever we ask from him we will receive
+** answer
+1 john 3:21,22
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       075964d4-f144-4677-9f14-68b02ab8eeaa
+:END:
+Those seeking Jehovah will priase him, may you enjoy life forever
+** answer
+Psalms 22:26
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       52b06837-2ddc-4ad2-aa4b-b72f3d557591
+:END:
+He has told you oh man what is good and what is Jehova requiring of you
+** answer
+Micah 6:8
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       0beabfcb-85ed-467a-a4c6-b9feadc25bde
+:END:
+In God I put my trust.  I will not be afraid.  What can mere man do to me?
+** answer
+Psalms 56:4
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       46f1226e-8904-4784-920c-9bc81757592c
+:END:
+Those seeking Jehovah will lack nothing good.
+** answer
+Psamls 34:10
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       a1215e86-f54b-448a-8fe0-b0e2c79875b2
+:END:
+You will call and I will answer.  You will long for the work of your hands.
+** answer
+Job 14:15
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       f62a9999-f365-44bf-be29-fde2ab505d4e
+:END:
+the one who is in union with you is greater than the one who is in union with the world.
+** answer
+1 john 4:4
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       62867fa1-fe4a-4092-9d54-a1739e3924db
+:END:
+Do not be afraid, for I am with you. Do not be anxious, for I am your God
+** answer
+IS 41:10
+
+* Bible Verse                                                         :drill:
+:PROPERTIES:
+:ID:       962ccce8-2e82-4bd5-a617-f9dd28a3cca1
+:END:
+Knowledge puffs up, but love builds up
+** answer
+1 Cor 8:1
