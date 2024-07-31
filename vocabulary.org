@@ -1,8 +1,0 @@
-#+TAGS: drill(d)
-#+ARCHIVE: %s_archive::
-
-
-* Vocabulary                                                          :drill:
-contralto
-** answer
-a very low female singing voice

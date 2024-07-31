@@ -134,3 +134,50 @@ step sister
 ¿Sale a su hora el vuels para Chicago?
 ** traduccíon
 is the flight to chicago on time?
+
+* Palabra                                                             :drill:
+la aduana
+** traduccíon
+customs
+* Palabra                                                             :drill:
+el vuelo de Chicago va con retraso
+** traduccíon
+the flight from chicago will be delayed
+* Palabra                                                             :drill:
+blanda
+** traduccíon
+soft
+* Palabra                                                             :drill:
+los champiñones
+** traduccíon
+mushrooms
+* Palabra                                                             :drill:
+el papel higiénico
+** traduccíon
+toiliet paper
+* Palabra                                                             :drill:
+los guisantes
+** traduccíon
+pees
+* Palabra                                                             :drill:
+la almohada
+** traduccíon
+pillow
+* Palabra                                                             :drill:
+la manta
+** traduccíon
+the bed spread
+* Palabra                                                             :drill:
+la colcha
+** traduccíon
+bed spread
+
+* Palabra                                                             :drill:
+surcursal
+** traduccíon
+the branch
+
+* Palabra                                                             :drill:
+presupuesto
+** traduccíon
+budget
